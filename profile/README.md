@@ -31,7 +31,7 @@ Design of the computer structure of your company (equipment, network assembly an
 Face-to-face and remote monitoring for the resolution of computer and everyday problems.
 
 ####  - Training
-Criamos soluções de formação à medida ou através de cursos específicos na área digital.
+We create tailor-made training solutions or through specific courses in the digital area.
 
 ####  - Web hosting
 Hosting solutions for web projects (websites and applications).
