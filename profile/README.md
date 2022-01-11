@@ -4,13 +4,13 @@
 
 [Altyra Solutions](https://altyra.com/) was born to meet the growing demand for tailor-made software development solutions. Our signature "Let's make IT done" reflects our commitment to developing solutions for the needs created by the challenging process of digital transformation of society and companies and organizations in particular.
 
-### 🔎 Who Are You?
+### 🔎 Who Are We?
 
 Altyra was born to respond to a continuous search for services and processes in the area of information technology. Our brand signature "Let's make IT done" demonstrates our interest in participating in the inevitable process of digital transformation of companies, whether in optimizing their physical structures, as in the transition to cloud storage solutions. We are present not only in the startup moments but also in the daily life of your company through our remote helpdesk service. 
 
 [Let's talk!](mailto:geral@altyra.com?subject=Hi!👋)
 
-### 🏗️ What kind of services do you provide?
+### 🏗️ What kind of services do we provide?
 
 At Altyra we provide a lot o services, such as:
 
