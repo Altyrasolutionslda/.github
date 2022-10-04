@@ -1,4 +1,4 @@
-## Hey, this is us 👋
+## Hey, this is us  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30">
 
 ![Who are you?](https://user-images.githubusercontent.com/48434290/147740849-36c2ea8a-8b6c-4f5a-8f39-de5a5085c385.jpg)
 
